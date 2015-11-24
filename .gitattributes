@@ -20,4 +20,8 @@
 *.m	 diff=astextplain
 *.M	 diff=astextplain
 *.txt	 diff=astextplain
+<<<<<<< HEAD
 *.TXT	 diff=astextplain
+=======
+*.TXT	 diff=astextplain
+>>>>>>> origin/master
