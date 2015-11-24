@@ -1,2 +1,0 @@
-Flatcar,DoubleBoxcar,Boxcar,Gondola
-13.125,2.5,4.634,8.333
